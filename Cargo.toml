@@ -1,0 +1,13 @@
+[package]
+name = "zoned-changes-pre-commit-hook"
+version = "0.1.0"
+authors = ["Ilya Epifanov <elijah.epifanov@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
+glob = "0.3.0"
+failure = "0.1.5"
+simplelog = "0.5.3"
+log = "0.4.6"
+git2 = "0.8.0"

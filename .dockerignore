@@ -1,0 +1,7 @@
+.dockerignore
+.gitignore
+.pre-commit-hooks.yaml
+target
+.idea
+.git*
+README.md

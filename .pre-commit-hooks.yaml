@@ -1,0 +1,6 @@
+---
+- id: zoned-changes
+  name: Zoned changes
+  description: 'Checks if all the changes correspond to at most one group of files'
+  entry: zoned-changes-pre-commit-hook
+  language: docker
