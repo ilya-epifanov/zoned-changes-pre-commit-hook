@@ -11,3 +11,6 @@ failure = "0.1.5"
 simplelog = "0.5.3"
 log = "0.4.6"
 git2 = "0.8.0"
+
+[profile.release]
+debug = true
